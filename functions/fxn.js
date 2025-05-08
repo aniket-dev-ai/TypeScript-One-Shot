@@ -15,4 +15,4 @@ function calculateTax(income, taxRate) {
 console.log(calculateTax(1000, 0)); // 200
 console.log(calculateTax(2000, 0.3)); // 600
 console.log(calculateTax(3000, 0.4)); // 1200
-console.log(calculateTax(4000, 2)); // 4000
+console.log(calculateTax(4000, 1)); // 4000
